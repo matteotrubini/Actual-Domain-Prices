@@ -6,7 +6,6 @@ apartments:33
 associates:20
 auction:20
 band:15
-bar:50
 bargains:20
 bet:10.99
 bike:20
@@ -28,7 +27,6 @@ cash:20
 casino:99
 catering:20
 center:13
-ceo:70
 chat:20
 cheap:20
 church:20
@@ -40,7 +38,6 @@ clothing:20
 coach:33
 codes:33
 coffee:20
-college:45
 com:7.85
 community:20
 company:5
@@ -60,7 +57,6 @@ deals:20
 delivery:33
 democrat:20
 dental:33
-design:33
 diamonds:33
 digital:20
 direct:20
@@ -83,7 +79,6 @@ exposed:13
 express:20
 fail:20
 family:15
-fans:50
 farm:20
 finance:33
 financial:33
@@ -94,7 +89,6 @@ florist:20
 football:13
 forsale:20
 foundation:20
-fun:15
 fund:33
 furniture:33
 futbol:8
@@ -119,13 +113,11 @@ hockey:33
 holdings:33
 holiday:33
 hospital:33
-host:65
 house:20
 immo:20
 immobilien:20
 industries:20
 info:10.84
-ink:19
 institute:13
 insure:33
 international:13
@@ -147,7 +139,6 @@ limited:20
 limo:33
 live:15
 loans:66
-love:20
 ltd:13
 maison:33
 management:13
@@ -163,7 +154,6 @@ net:9.77
 network:13
 news:15
 ninja:12
-online:25
 org:9.93
 partners:33
 parts:20
@@ -172,10 +162,8 @@ photography:13
 photos:13
 pictures:7
 pink:10.99
-pizza:33
 plumbing:33
 plus:20
-press:49
 pro:10.99
 productions:20
 promo:10.99
@@ -185,12 +173,10 @@ recipes:33
 red:10.99
 reise:66
 reisen:13
-rent:45
 rentals:20
 repair:20
 report:13
 republican:20
-rest:25
 restaurant:33
 reviews:15
 rip:12
@@ -201,20 +187,15 @@ salon:33
 sarl:20
 school:20
 schule:13
-security:2000
 services:20
 shoes:33
 shopping:20
 show:20
 singles:20
-site:20
 soccer:13
 social:20
 solar:33
 solutions:13
-space:15
-storage:500
-store:40
 studio:15
 style:20
 supplies:13
@@ -225,11 +206,9 @@ systems:13
 tax:33
 taxi:33
 team:20
-tech:35
 technology:13
 tennis:33
 theater:33
-theatre:500
 tienda:33
 tips:13
 tires:66
@@ -249,11 +228,8 @@ vin:33
 vision:20
 voyage:33
 watch:20
-website:15
-wiki:19
 wine:33
 works:20
 world:20
 wtf:20
-xyz:8
 zone:20
