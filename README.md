@@ -1,7 +1,7 @@
 # Actual Domain Prices
 The real cost of each TLD (top-level-domain). Find out how much your registrar marks up your domain prices.
 
-This list is in **US Dollars**.
+This list is in **US Dollars**. 
 
 |TLD|price (USD)|
 |---|---|
@@ -276,6 +276,7 @@ For programmatic use, there is a text file named `list.txt` in the format of `tl
 
 There *is* a big asterisk here.  In general, all [gTLDs](https://newgtlds.icann.org/en/applicants/global-support/faqs/faqs-en) have to be fair about the pricing they charge registrars. BUT, ccTLDs (country code TLDs) like `.io` **are NOT required to be fair about the pricing** they charge registrars. It is very likely that CF's `.io` price is higher than other registrars because the io registry decided to give other registrars a huge discount, or hiked the price Cloudflare pays because they don't like CF or something of the sorts. See [the discussion about this](https://community.cloudflare.com/t/io-domain-price-not-wholesale-price/54709?u=judge).
 
+To add, there might be price disparities if CF is including the fees the credit card companies/paypal charge (eg. if the registry charges CF $10, CF might charge you $10.61 to cover the 2.9% + $0.30. the formula is `x=(y - (y * 0.029)) - 0.30`, where x is the price of the domain and y is the output price to charge the user), however, it's unknown if CF does this.
 
 #### Terminology: 
 
