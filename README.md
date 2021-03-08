@@ -46,7 +46,7 @@ This list is in **US Dollars**.
 |.clothing|20|
 |.coach|33|
 |.codes|33|
-|.coffee|20|
+|.coffee|21.50|
 |.college|45|
 |.com|7.85|
 |.community|20|
