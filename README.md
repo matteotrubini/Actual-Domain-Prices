@@ -18,6 +18,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.bet|13.15|
 |.bike|21.50|
 |.bingo|35.50|
+|.biz|12.63|
 |.black|40|
 |.blue|13.15|
 |.boutique|21.50|
@@ -44,6 +45,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.cleaning|35.50|
 |.clinic|35.50|
 |.clothing|21.50|
+|.cloud|15|
 |.coach|35.50|
 |.codes|35.50|
 |.coffee|21.50|
