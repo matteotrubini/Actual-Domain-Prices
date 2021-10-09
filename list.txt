@@ -49,7 +49,7 @@ company:5.50
 computer:21.50
 condos:35
 construction:21.50
-consulting:21.50
+consulting:23
 contractors:21.50
 cool:21.50
 coupons:35
@@ -147,7 +147,7 @@ life:21
 lighting:14
 limited:21.50
 limo:36
-live:16
+live:17.50
 loans:66
 love:20
 ltd:15.50
@@ -155,7 +155,7 @@ maison:35.50
 management:14
 marketing:21.50
 mba:21.50
-media:21.50
+media:23
 memorial:35.50
 mobi:15.65
 moda:21.50
@@ -196,7 +196,7 @@ rest:25
 restaurant:35.50
 reviews:16
 rip:13
-rocks:8.50
+rocks:10
 run:14
 sale:21.50
 salon:36
@@ -217,7 +217,7 @@ solutions:14
 space:15
 storage:500
 store:40
-studio:16
+studio:17.50
 style:21.50
 supplies:14
 supply:14
@@ -257,5 +257,5 @@ wine:35.50
 works:21.50
 world:21
 wtf:21.50
-xyz:8
+xyz:8.56
 zone:21.50

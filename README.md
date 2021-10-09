@@ -56,7 +56,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.computer|21.50|
 |.condos|35|
 |.construction|21.50|
-|.consulting|21.50|
+|.consulting|23|
 |.contractors|21.50|
 |.cool|21.50|
 |.coupons|35|
@@ -154,7 +154,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.lighting|14|
 |.limited|21.50|
 |.limo|36|
-|.live|16|
+|.live|17.50|
 |.loans|66|
 |.love|20|
 |.ltd|15.50|
@@ -162,7 +162,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.management|14|
 |.marketing|21.50|
 |.mba|21.50|
-|.media|21.50|
+|.media|23|
 |.memorial|35.50|
 |.mobi|15.65|
 |.moda|21.50|
@@ -203,7 +203,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.restaurant|35.50|
 |.reviews|16|
 |.rip|13|
-|.rocks|8.50|
+|.rocks|10|
 |.run|14|
 |.sale|21.50|
 |.salon|36|
@@ -224,7 +224,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.space|15|
 |.storage|500|
 |.store|40|
-|.studio|16|
+|.studio|17.50|
 |.style|21.50|
 |.supplies|14|
 |.supply|14|
@@ -264,7 +264,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.works|21.50|
 |.world|21|
 |.wtf|21.50|
-|.xyz|8|
+|.xyz|8.56|
 |.zone|21.50|
 
 
