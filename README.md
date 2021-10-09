@@ -8,7 +8,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.academy|21.50|
 |.accountants|66|
 |.actor|26.50|
-|.agency|14|
+|.agency|15.50|
 |.apartments|35.50|
 |.associates|21.50|
 |.auction|21.50|
@@ -48,7 +48,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.codes|35.50|
 |.coffee|21.50|
 |.college|45|
-|.com|7.85|
+|.com|8.39|
 |.community|21.50|
 |.company|5.50|
 |.computer|21.50|
@@ -69,7 +69,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.dental|35.50|
 |.design|33|
 |.diamonds|35.50|
-|.digital|21.50|
+|.digital|23|
 |.direct|21.50|
 |.directory|14|
 |.discount|21.50|
@@ -77,7 +77,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.dog|35.50|
 |.domains|21.50|
 |.education|14|
-|.email|14|
+|.email|15.50|
 |.energy|66|
 |.engineering|35.50|
 |.enterprises|21.50|
@@ -117,7 +117,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.gratis|14|
 |.green|50|
 |.gripe|21.50|
-|.group|8.50|
+|.group|10|
 |.guide|21.50|
 |.guru|21.50|
 |.haus|21.50|
@@ -155,7 +155,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.live|16|
 |.loans|66|
 |.love|20|
-|.ltd|14|
+|.ltd|15.50|
 |.maison|35.50|
 |.management|14|
 |.marketing|21.50|
@@ -167,7 +167,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 |.money|21.50|
 |.movie|200|
 |.net|9.77|
-|.network|14|
+|.network|15.50|
 |.news|16|
 |.ninja|13|
 |.online|25|
