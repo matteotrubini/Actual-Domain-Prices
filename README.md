@@ -1,5 +1,5 @@
-# Actual Domain Prices
-The real cost of each TLD (top-level-domain). Find out how much your registrar marks up your domain prices.
+# Cloudflare Registrar domain prices
+The cost currently charged by Cloudflare Registrar for each TLD (top-level-domain). Find out how much your registrar marks up your domain prices.
 
 This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 
