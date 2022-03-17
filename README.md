@@ -1,7 +1,7 @@
 # Cloudflare Registrar domain prices
 The cost currently charged by Cloudflare Registrar for each TLD (top-level-domain). Find out how much your registrar marks up your domain prices.
 
-This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
+This list is in **US Dollars**. $0.18 ICANN fees **excluded** (when applicable).
 
 |TLD|price (USD)|
 |---|---|
@@ -311,7 +311,7 @@ This list is in **US Dollars**. $0.18 ICANN fees **excluded**.
 
 This repo is an effort to list the *real* costs that registries put on their TLDs. Since almost all registrars are for-profit operations, they usually increase the price of domains by a few dollars to turn a profit. Another tactic is drastically lowering the price for new customers (*cough* godaddy, 1and1) then effectively performing a bait-and-switch with expensive renewal costs.
 
-This list is aggregated from prices shown via the [Cloudflare Registrar](https://cloudflare.com/registrar), which guaranteed to only charge you what the registry charges (+ ICANN fees) for the domain. Unfortunately, [as said here](https://developers.cloudflare.com/registrar/domain-registration/tld-support/), Cloudflare can't directly show each TLD price in their marketing material, so I made this list.
+This list is aggregated from prices shown via the [Cloudflare Registrar](https://cloudflare.com/registrar), which guaranteed to only charge you what the registry charges (+ ICANN fees when applicable) for the domain. Unfortunately, [as said here](https://developers.cloudflare.com/registrar/domain-registration/tld-support/), Cloudflare can't directly show each TLD price in their marketing material, so I made this list.
 
 For programmatic use, there is a text file named `list.txt` in the format of `tld:price`.
 
